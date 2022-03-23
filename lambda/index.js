@@ -26,6 +26,24 @@ const BirthdayIntentHandler = {
             && Alexa.getIntentName(handlerInput.requestEnvelope) === 'BirthdayIntent';
     },
     handle(handlerInput) {
+
+        let baseYear = '1900'
+
+        let receivedDateOfBirth = handlerInput.requestEnvelope.request.intent.slots.dateofbirth.value //2022-10-30
+        console.log("date of birth received is: ", receivedDateOfBirth)
+
+        let dateOfBirth = baseYear + receivedDateOfBirth.substring(4,10)
+        console.log("Date of birth to consider: ", dateOfBirth)
+
+        let allData = require("./zodiac.json")
+
+        let myZodiac = undefined
+
+        allData.forEach((zodiac)=>{
+            //compare the date range
+            if(moment(dateOfBirth).isBetween)
+        })
+
         const speakOutput = 'Hello World!';
 
         return handlerInput.responseBuilder

@@ -1,0 +1,43 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "invocationName": "buscador de signo",
+      "intents": [
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.NavigateHomeIntent",
+          "samples": []
+        },
+        {
+          "name": "BirthdayIntent",
+          "slots": [
+            {
+              "name": "dateofbirth",
+              "type": "AMAZON.DATE"
+            }
+          ],
+          "samples": [
+            "meu aniversário na {dateofbirth}",
+            " {dateofbirth}",
+            "meu aniversário {dateofbirth}",
+            "meu aniversário é em {dateofbirth}",
+            "meu aniversário é no dia {dateofbirth}"
+          ]
+        }
+      ],
+      "types": []
+    }
+  },
+  "version": "5"
+}

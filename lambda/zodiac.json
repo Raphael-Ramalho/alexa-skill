@@ -3,120 +3,120 @@
     "name": "Aries",
     "start": "03-22",
     "end": "04-21",
-    "element": "Fire",
+    "element": "Fogo",
     "symbol": "The Ram",
-    "planet": "Mars",
+    "planet": "Marte",
     "quality": "Cardinal",
-    "traits": "Brave, Independent and Assertive. You are impulsive and hate to be restricted."
+    "traits": "Sincero, independente, competitivo e cheio de energia."
   },
   {
-    "name": "Taurus",
+    "name": "Touro",
     "start": "04-22",
     "end": "05-21",
-    "element": "Earth",
+    "element": "Terra",
     "symbol": "The Bull",
-    "planet": "Venus",
+    "planet": "Vênus",
     "quality": "Fixed",
-    "traits": "Sensual, have good taste, down to earth, pleasure seeking and stubborn."
+    "traits": "Calmo e persistente. Não costuma se irritar com facilidade"
   },
   {
-    "name": "Gemini",
+    "name": "Gêmeos",
     "start": "05-22",
     "end": "06-21",
-    "element": "Air",
+    "element": "Ar",
     "symbol": "The Twins",
-    "planet": "Mercury",
+    "planet": "Mercúrio",
     "quality": "Mutable",
-    "traits": "Dynamic, with many talents. You like games, and are two-faced and mischievous."
+    "traits": "Divertida e curiosa. Usa sua agilidade e criatividade para se sair bem nas mais diversas situações. "
   },
   {
     "name": "Cancer",
     "start": "06-22",
     "end": "07-21",
-    "element": "Water",
+    "element": "Água",
     "symbol": "The Crab",
-    "planet": "The Moon",
+    "planet": "Lua",
     "quality": "Cardinal",
-    "traits": "Sensitive, friend-oriented, practical, and you hate to argue. You do forgive but you do not forget!"
+    "traits": "Costuma se apegar aos demais e também bastante preocupados. Luta para conseguir o que quer e pode se ressentir quando os esforços não são correspondidos."
   },
   {
-    "name": "Leo",
+    "name": "Leão",
     "start": "07-22",
     "end": "08-21",
-    "element": "Fire",
+    "element": "Fogo",
     "symbol": "The Lion",
-    "planet": "The Sun",
+    "planet": "Sol",
     "quality": "Fixed",
-    "traits": "Creative, popular, faithful, dominating, and you also have too much pride!"
+    "traits": "Possui coragem para enfrentar o que for, mas também é um pouco temperamental."
   },
   {
-    "name": "Virgo",
+    "name": "Virgem",
     "start": "08-22",
     "end": "09-21",
-    "element": "Earth",
+    "element": "Terra",
     "symbol": "The Virgin",
-    "planet": "Mercury",
+    "planet": "Mercúrio",
     "quality": "Mutable",
-    "traits": "Successful, creative, and like to please. You are also clever, and can lead others on."
+    "traits": "Detalhista, dedicado ao trabalho, metódico e extremamente organizado."
   },
   {
     "name": "Libra",
     "start": "09-22",
     "end": "10-21",
-    "element": "Air",
+    "element": "Ar",
     "symbol": "The Scales",
-    "planet": "Venus",
+    "planet": "Vênus",
     "quality": "Cardinal",
-    "traits": "Irresistible, adventurous, lavish. You are also indecisive, and have a complicated love life."
+    "traits": "Voltado às ideias e ao racional. Pensa bastante e não gosta de se sentir limitado"
   },
   {
-    "name": "Scorpio",
+    "name": "Escorpião",
     "start": "10-22",
     "end": "11-21",
-    "element": "Water",
+    "element": "Água",
     "symbol": "The Scorpion",
-    "planet": "Pluto",
+    "planet": "Plutão",
     "quality": "Fixed",
-    "traits": "Self reliant, powerful, and wise. You are also dominant and secretive."
+    "traits": "Possui força e capacidade de se reinventar, mesmo diante de situações desafiadoras"
   },
   {
-    "name": "Sagittarius",
+    "name": "Sargitário",
     "start": "11-22",
     "end": "12-21",
-    "element": "Fire",
+    "element": "Fogo",
     "symbol": "The Archer",
     "planet": "Jupiter",
     "quality": "Mutable",
-    "traits": "Open-minded, achiever, and loving. You are also insensitive and cold."
+    "traits": "Mente aberta, realizador e amável. Também é insensível e frio."
   },
   {
-    "name": "Capricorn",
+    "name": "Capricórnio",
     "start": "12-22",
     "end": "01-21",
-    "element": "Earth",
+    "element": "Terra",
     "symbol": "The Goat",
-    "planet": "Saturn",
+    "planet": "Saturno",
     "quality": "Cardinal",
-    "traits": "Hardworking, Straightforward, Loyal, Stubborn, and you are not content until at the top."
+    "traits": "Coerente, disciplinado, sério e responsável."
   },
   {
-    "name": "Aquarius",
+    "name": "Aquário",
     "start": "01-22",
     "end": "02-21",
-    "element": "Air",
+    "element": "Ar",
     "symbol": "The Water Bearer",
-    "planet": "Uranus",
+    "planet": "Urano",
     "quality": "Fixed",
-    "traits": "Setting trends, innovative, and admired. You are also distant and eccentric."
+    "traits": "Criativo, assertivo e independente."
   },
   {
-    "name": "Pisces",
+    "name": "Peixes",
     "start": "02-22",
     "end": "03-21",
-    "element": "Water",
+    "element": "Água",
     "symbol": "The Fist",
-    "planet": "Neptune",
+    "planet": "Netuno",
     "quality": "Mutable",
-    "traits": "Alluring, free, and sensual. You are also sensitive and cannot function alone."
+    "traits": "Gosta de ter ou seguir um propósito de vida, com uma inquietação natural por alcançar algo maior"
   }
 ]

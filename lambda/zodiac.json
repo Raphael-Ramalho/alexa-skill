@@ -27,7 +27,7 @@
     "symbol": "The Twins",
     "planet": "Mercúrio",
     "quality": "Mutable",
-    "traits": "Divertida e curiosa. Usa sua agilidade e criatividade para se sair bem nas mais diversas situações. "
+    "traits": "Divertido, curioso e usa sua agilidade e criatividade para se sair bem nas mais diversas situações. "
   },
   {
     "name": "Cancer",
@@ -37,7 +37,7 @@
     "symbol": "The Crab",
     "planet": "Lua",
     "quality": "Cardinal",
-    "traits": "Costuma se apegar aos demais e também bastante preocupados. Luta para conseguir o que quer e pode se ressentir quando os esforços não são correspondidos."
+    "traits": "Apegado aos demais e também bastante preocupado. Luta para conseguir o que quer e pode se ressentir quando os esforços não são correspondidos."
   },
   {
     "name": "Leão",
@@ -47,7 +47,7 @@
     "symbol": "The Lion",
     "planet": "Sol",
     "quality": "Fixed",
-    "traits": "Possui coragem para enfrentar o que for, mas também é um pouco temperamental."
+    "traits": "Corajoso para enfrentar o que for, mas também é um pouco temperamental."
   },
   {
     "name": "Virgem",
@@ -77,7 +77,7 @@
     "symbol": "The Scorpion",
     "planet": "Plutão",
     "quality": "Fixed",
-    "traits": "Possui força e capacidade de se reinventar, mesmo diante de situações desafiadoras"
+    "traits": "Forte e capaz de se reinventar, mesmo diante de situações desafiadoras"
   },
   {
     "name": "Sargitário",
@@ -117,6 +117,6 @@
     "symbol": "The Fist",
     "planet": "Netuno",
     "quality": "Mutable",
-    "traits": "Gosta de ter ou seguir um propósito de vida, com uma inquietação natural por alcançar algo maior"
+    "traits": "Inquieto e gosta de ter ou seguir um propósito de vida."
   }
 ]

@@ -41,11 +41,17 @@ const BirthdayIntentHandler = {
 
         allData.forEach((zodiac)=>{
             //compare the date range
-            if(moment(dateOfBirth).isBetween)
+            if(moment(dateOfBirth).isBetween(baseYear+'-'+zodiac.start,baseYear+'-'+zodiac.end,'[]')){
+                myZodiac = zodiac
+            }
         })
 
-        const speakOutput = 'Hello World!';
+        const speakOutput = 'Me desculpe, não consegui encontrar seu signo.';
 
+        if(myZodiac !== undefined){
+            speakOutput = `Seu signo do zodiaco é ${myZodiac.name}, seu planeta regente é ${myZodiac.planet}, e você pertence ao elemento ${myZodiac.element}. Você é ${myZodiac.traits}`
+        }
+        console.log("The final output was: ", speakOutput)
         return handlerInput.responseBuilder
             .speak(speakOutput)
             //.reprompt('add a reprompt if you want to keep the session open for the user to respond')
@@ -163,7 +169,7 @@ const ErrorHandler = {
 exports.handler = Alexa.SkillBuilders.custom()
     .addRequestHandlers(
         LaunchRequestHandler,
-        HelloWorldIntentHandler,
+        BirthdayIntentHandler,
         HelpIntentHandler,
         CancelAndStopIntentHandler,
         FallbackIntentHandler,
